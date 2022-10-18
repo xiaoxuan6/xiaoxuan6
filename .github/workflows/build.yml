@@ -3,7 +3,8 @@ name: "build README.md"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* 0/1,9-20 * * *'
+    - cron: '0/30 9-20 * * ?'
+      # 每天9-20点，30分钟触发任务
 
 env:
   TZ: Asia/Shanghai
