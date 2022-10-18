@@ -3,7 +3,7 @@ name: "build README.md"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* 0/1,9-20 * * *'
+    - cron: '* 0/1,9-20 * * ?'
 
 env:
   TZ: Asia/Shanghai
