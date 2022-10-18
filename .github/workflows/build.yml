@@ -1,4 +1,4 @@
-name: build README.md
+name: "build README.md"
 
 on:
   workflow_dispatch:
@@ -12,8 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: "Check out repo"
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: "Set up Python"
         uses: actions/setup-python@v2
         with:
