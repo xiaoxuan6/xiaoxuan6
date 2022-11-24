@@ -17,6 +17,21 @@
 <!-- blog ends -->
 
 </td>
+
+<td valign="top" width="50%">
+
+#### 🤹‍♀️Recent Star
+
+<!-- Star starts -->
+<a href='https://github.com/hegphegp/docker-learning' target='_blank'>hegphegp/docker-learning</a> - 2022-11-19<br/>
+<a href='https://github.com/geshan/laravel-backpack-demo' target='_blank'>geshan/laravel-backpack-demo</a> - 2022-11-09<br/>
+<a href='https://github.com/Maicius/QQZoneMood' target='_blank'>Maicius/QQZoneMood</a> - 2022-11-08<br/>
+<a href='https://github.com/godruoyi/ocr' target='_blank'>godruoyi/ocr</a> - 2022-11-06<br/>
+<a href='https://github.com/xizhibei/docker-elk' target='_blank'>xizhibei/docker-elk</a> - 2022-11-05<br/>
+
+<!-- Star ends -->
+
+</td>
 </tr>
 
 </table>
