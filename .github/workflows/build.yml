@@ -59,7 +59,11 @@ jobs:
           git diff
           git config --local user.email "1527736751@qq.com"
           git config --local user.name "xiaoxuan6"
-          git pull
+          git pull origin master
           git add -A
           git commit -m "Updated content" || exit 0
-          git push
+      - name: "Push changes"
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
