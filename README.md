@@ -8,11 +8,11 @@
 #### 🤹‍♀️ <a href="https://xiaoxuan6.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+<a href='https://xiaoxuan6.github.io/posts/68142548.html' target='_blank'>docker-mysql 主从复制</a> - 2022-12-05<br/>
 <a href='https://xiaoxuan6.github.io/posts/1098e2cb.html' target='_blank'>Linux 中的 '> /dev/null 2>&1' 是什么</a> - 2022-12-04<br/>
 <a href='https://xiaoxuan6.github.io/posts/554db5ac.html' target='_blank'>docker-redis-cluster 集群、扩容、缩容</a> - 2022-11-23<br/>
 <a href='https://xiaoxuan6.github.io/posts/9f48367d.html' target='_blank'>docker 私有仓库</a> - 2022-11-07<br/>
 <a href='https://xiaoxuan6.github.io/posts/9483327d.html' target='_blank'>Github Top 200 Go</a> - 2022-10-23<br/>
-<a href='https://xiaoxuan6.github.io/posts/54e5375a.html' target='_blank'>Github Top 200 PHP</a> - 2022-10-23<br/>
 
 <!-- blog ends -->
 
