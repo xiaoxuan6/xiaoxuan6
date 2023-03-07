@@ -23,11 +23,11 @@
 #### 🤹‍♀️Recent Star
 
 <!-- Star starts -->
+<a href='https://github.com/yinggaozhen/awesome-go-cn' target='_blank'>yinggaozhen/awesome-go-cn</a> - 2023-03-05<br/>
 <a href='https://github.com/xiaoxuan6/go-city' target='_blank'>xiaoxuan6/go-city</a> - 2023-03-04<br/>
 <a href='https://github.com/glebarez/sqlite' target='_blank'>glebarez/sqlite</a> - 2023-02-27<br/>
-<a href='https://github.com/Leizhenpeng/feishu-chatGpt' target='_blank'>Leizhenpeng/feishu-chatGpt</a> - 2023-02-23<br/>
+<a href='https://github.com/Leizhenpeng/feishu-chatgpt' target='_blank'>Leizhenpeng/feishu-chatgpt</a> - 2023-02-23<br/>
 <a href='https://github.com/eryajf/chatgpt-dingtalk' target='_blank'>eryajf/chatgpt-dingtalk</a> - 2023-02-10<br/>
-<a href='https://github.com/hyn/git-helpers' target='_blank'>hyn/git-helpers</a> - 2023-02-07<br/>
 
 <!-- Star ends -->
 
