@@ -23,11 +23,11 @@
 #### 🤹‍♀️Recent Star
 
 <!-- Star starts -->
+<a href='https://github.com/xiaoxuan6/go-package-example' target='_blank'>xiaoxuan6/go-package-example</a> - 2023-03-26<br/>
 <a href='https://github.com/xiaoxuan6/movie' target='_blank'>xiaoxuan6/movie</a> - 2023-03-23<br/>
 <a href='https://github.com/xiaoxuan6/search' target='_blank'>xiaoxuan6/search</a> - 2023-03-19<br/>
 <a href='https://github.com/xx025/carrot' target='_blank'>xx025/carrot</a> - 2023-03-15<br/>
 <a href='https://github.com/869413421/chatgpt-web' target='_blank'>869413421/chatgpt-web</a> - 2023-03-07<br/>
-<a href='https://github.com/yinggaozhen/awesome-go-cn' target='_blank'>yinggaozhen/awesome-go-cn</a> - 2023-03-05<br/>
 
 <!-- Star ends -->
 
