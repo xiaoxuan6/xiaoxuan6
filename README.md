@@ -23,11 +23,11 @@
 #### 🤹‍♀️Recent Star
 
 <!-- Star starts -->
+<a href='https://github.com/xiaoxuan6/faker' target='_blank'>xiaoxuan6/faker</a> - 2023-07-30<br/>
+<a href='https://github.com/xiaoxuan6/SMSBombing' target='_blank'>xiaoxuan6/SMSBombing</a> - 2023-07-30<br/>
 <a href='https://github.com/xiaoxuan6/wechat-send-action' target='_blank'>xiaoxuan6/wechat-send-action</a> - 2023-06-27<br/>
 <a href='https://github.com/ToyoDAdoubi/doubi' target='_blank'>ToyoDAdoubi/doubi</a> - 2023-05-31<br/>
 <a href='https://github.com/smi2/phpClickHouse' target='_blank'>smi2/phpClickHouse</a> - 2023-05-09<br/>
-<a href='https://github.com/xiaoxuan6/chatgpt-server' target='_blank'>xiaoxuan6/chatgpt-server</a> - 2023-05-02<br/>
-<a href='https://github.com/xiaoxuan6/free-vip-video' target='_blank'>xiaoxuan6/free-vip-video</a> - 2023-05-02<br/>
 
 <!-- Star ends -->
 
