@@ -23,11 +23,11 @@
 #### 🤹‍♀️Recent Star
 
 <!-- Star starts -->
+<a href='https://github.com/boppreh/keyboard' target='_blank'>boppreh/keyboard</a> - 2023-11-04<br/>
 <a href='https://github.com/xiaoxuan6/resource-web' target='_blank'>xiaoxuan6/resource-web</a> - 2023-09-16<br/>
 <a href='https://github.com/xiaoxuan6/OpenAI-free-accounts' target='_blank'>xiaoxuan6/OpenAI-free-accounts</a> - 2023-08-21<br/>
 <a href='https://github.com/jonnnnyw/php-phantomjs' target='_blank'>jonnnnyw/php-phantomjs</a> - 2023-08-09<br/>
 <a href='https://github.com/nacmartin/phpexecjs' target='_blank'>nacmartin/phpexecjs</a> - 2023-08-01<br/>
-<a href='https://github.com/symfony/browser-kit' target='_blank'>symfony/browser-kit</a> - 2023-08-01<br/>
 
 <!-- Star ends -->
 
