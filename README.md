@@ -47,3 +47,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/xiaoxuan6/count.svg" />
 </p>
+
+#  开源项目
+|项目|地址|描述|
+|:---|:---|:---|
+|[github-mirror](https://github.com/xiaoxuan6/github-mirror)|[https://github-mirror.us.kg](https://github-mirror.us.kg)|GitHub 文件加速集群|
+|[weekly](https://github.com/xiaoxuan6/weekly)|[https://weekly.xiaoxuan6.cloudns.be](https://weekly.xiaoxuan6.cloudns.be/)|【周刊】针对优秀项目、软件、教程资料、网站等。|
