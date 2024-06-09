@@ -36,13 +36,17 @@
 
 </table>
 
+<details>
+<summary><b>Active</b></summary>
+  
 ![](https://activity-graph.herokuapp.com/graph?username=xiaoxuan6&theme=redical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaoxuan6/xiaoxuan6/master/profile-3d-contrib/profile-night-green.svg">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/xiaoxuan6/xiaoxuan6/master/profile-3d-contrib/profile-green.svg">
 </picture>
-
+</details>
+  
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/xiaoxuan6/count.svg" />
