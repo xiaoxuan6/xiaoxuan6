@@ -57,3 +57,5 @@
 |:---|:---|:---|
 |[github-mirror](https://github.com/xiaoxuan6/github-mirror)|[https://github-mirror.us.kg](https://github-mirror.us.kg)|GitHub 文件加速集群|
 |[weekly](https://github.com/xiaoxuan6/weekly)|[https://weekly.xiaoxuan6.cloudns.be](https://weekly.xiaoxuan6.cloudns.be/)|【周刊】针对优秀项目、软件、教程资料、网站等。|
+|[faker](https://github.com/xiaoxuan6/faker)|[https://xiaoxuan6.github.io/faker](https://xiaoxuan6.github.io/faker)|个人信息假数据生成器（包括：姓名、出生日期、身份证、手机号、银行卡号）|
+|[free-vip-video](https://github.com/xiaoxuan6/free-vip-video)|[https://xiaoxuan6.github.io/free-vip-video](https://xiaoxuan6.github.io/free-vip-video)|🎥爱奇艺、优酷、土豆等会员资源解析|
