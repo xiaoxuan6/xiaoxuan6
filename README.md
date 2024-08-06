@@ -61,4 +61,4 @@
 |[free-vip-video](https://github.com/xiaoxuan6/free-vip-video)|[https://xiaoxuan6.github.io/free-vip-video](https://xiaoxuan6.github.io/free-vip-video)|🎥爱奇艺、优酷、土豆等会员资源解析|
 |[homepage](https://github.com/xiaoxuan6/homepage)|[https://xiaoxuan6.us.kg](https://xiaoxuan6.us.kg/)|主页、引导页|
 |[service-status](https://github.com/xiaoxuan6/service-status)||服务状态监控面板|
-|[service-status](https://github.com/xiaoxuan6/chinese-holidays-api)||提供中国休假或者工作日 api 接口查询|
+|[chinese-holidays-api](https://github.com/xiaoxuan6/chinese-holidays-api)||提供中国休假或者工作日 api 接口查询|
