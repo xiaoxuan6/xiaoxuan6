@@ -62,3 +62,4 @@
 |[homepage](https://github.com/xiaoxuan6/homepage)|[https://xiaoxuan6.us.kg](https://xiaoxuan6.us.kg/)|主页、引导页|
 |[service-status](https://github.com/xiaoxuan6/service-status)||服务状态监控面板|
 |[chinese-holidays-api](https://github.com/xiaoxuan6/chinese-holidays-api)|[https://holidays.xiaoxuan6.us.kg](https://holidays.xiaoxuan6.us.kg)|提供中国休假或者工作日 api 接口查询|
+|[telegraph-images](https://github.com/xiaoxuan6/telegraph-images)||telegraph 图床|
