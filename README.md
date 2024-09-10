@@ -65,3 +65,4 @@
 |[telegraph-images](https://github.com/xiaoxuan6/telegraph-images)||telegraph 图床|
 |[gsv](https://github.com/xiaoxuan6/gsv)||通过 cli 终端搜索展示 github 所关注的 stars list|
 |[deeplx](https://github.com/xiaoxuan6/deeplx)||用于无限制翻译的 Go 库 DeepL|
+|[dockerproxy](https://github.com/xiaoxuan6/dockerproxy)|[https://dockerproxy.xiaoxuan6.us.kg](https://dockerproxy.xiaoxuan6.us.kg)|Docker 镜像加速站集合|
