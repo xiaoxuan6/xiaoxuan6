@@ -66,3 +66,4 @@
 |[gsv](https://github.com/xiaoxuan6/gsv)||通过 cli 终端搜索展示 github 所关注的 stars list|
 |[deeplx](https://github.com/xiaoxuan6/deeplx)||用于无限制翻译的 Go 库 DeepL|
 |[dockerproxy](https://github.com/xiaoxuan6/dockerproxy)|[https://dockerproxy.xiaoxuan6.us.kg](https://dockerproxy.xiaoxuan6.us.kg)|Docker 镜像加速站集合|
+|[sensitive-api](https://github.com/xiaoxuan6/sensitive-api)||敏感词过滤，查找、替换支持 Docker 一键部署|
