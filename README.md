@@ -67,3 +67,4 @@
 |[deeplx](https://github.com/xiaoxuan6/deeplx)||用于无限制翻译的 Go 库 DeepL|
 |[dockerproxy](https://github.com/xiaoxuan6/dockerproxy)|[https://dockerproxy.xiaoxuan6.us.kg](https://dockerproxy.xiaoxuan6.us.kg)|Docker 镜像加速站集合|
 |[sensitive-api](https://github.com/xiaoxuan6/sensitive-api)||敏感词过滤，查找、替换支持 Docker 一键部署|
+|[github-profile](https://github.com/xiaoxuan6/github-profile)|[https://github-profile.xiaoxuan6.me](https://github-profile.xiaoxuan6.me)|展示 github 主页 Repository 和 Pr 信息|
