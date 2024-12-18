@@ -63,8 +63,14 @@
 |[service-status](https://github.com/xiaoxuan6/service-status)||服务状态监控面板|
 |[chinese-holidays-api](https://github.com/xiaoxuan6/chinese-holidays-api)|[https://holidays.xiaoxuan6.us.kg](https://holidays.xiaoxuan6.us.kg)|提供中国休假或者工作日 api 接口查询|
 |[telegraph-images](https://github.com/xiaoxuan6/telegraph-images)||telegraph 图床|
-|[gsv](https://github.com/xiaoxuan6/gsv)||通过 cli 终端搜索展示 github 所关注的 stars list|
 |[deeplx](https://github.com/xiaoxuan6/deeplx)||用于无限制翻译的 Go 库 DeepL|
 |[dockerproxy](https://github.com/xiaoxuan6/dockerproxy)|[https://dockerproxy.xiaoxuan6.us.kg](https://dockerproxy.xiaoxuan6.us.kg)|Docker 镜像加速站集合|
 |[sensitive-api](https://github.com/xiaoxuan6/sensitive-api)||敏感词过滤，查找、替换支持 Docker 一键部署|
 |[github-profile](https://github.com/xiaoxuan6/github-profile)|[https://github-profile.xiaoxuan6.me](https://github-profile.xiaoxuan6.me)|展示 github 主页 Repository 和 Pr 信息|
+
+## cli
+|项目|描述|
+|:---|:---|
+|[gsv](https://github.com/xiaoxuan6/gsv)|搜索展示 github 所关注的 stars list|
+|[gmod](https://github.com/xiaoxuan6/gmod)|展示 Repository 中 go.mod 所依赖的 Repository|
+|[tools](https://github.com/xiaoxuan6/tools)|tools - 小工具翻译、OCR 图片识别文字、二维码生成/解析等|
