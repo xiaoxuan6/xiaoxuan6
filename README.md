@@ -67,6 +67,7 @@
 |[dockerproxy](https://github.com/xiaoxuan6/dockerproxy)|[https://dockerproxy.xiaoxuan6.us.kg](https://dockerproxy.xiaoxuan6.us.kg)|Docker 镜像加速站集合|
 |[sensitive-api](https://github.com/xiaoxuan6/sensitive-api)||敏感词过滤，查找、替换支持 Docker 一键部署|
 |[github-profile](https://github.com/xiaoxuan6/github-profile)|[https://github-profile.xiaoxuan6.me](https://github-profile.xiaoxuan6.me)|展示 github 主页 Repository 和 Pr 信息|
+|[youdao-translate](https://github.com/xiaoxuan6/youdao-translate)|[https://xiaoxuan6s-yd-translate.hf.space](https://xiaoxuan6s-yd-translate.hf.space)|逆向有道翻译，搭建自己的翻译网站|
 
 ## cli
 |项目|描述|
