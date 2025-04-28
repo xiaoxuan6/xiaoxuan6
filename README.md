@@ -55,16 +55,16 @@
 #  开源项目
 |项目|地址|描述|
 |:---|:---|:---|
-|[github-mirror](https://github.com/xiaoxuan6/github-mirror)|[https://github-mirror.us.kg](https://github-mirror.us.kg)|GitHub 文件加速集群|
+|[github-mirror](https://github.com/xiaoxuan6/github-mirror)|[https://github-mirrors.zone.id](https://github-mirrors.zone.id)|GitHub 文件加速集群|
 |[weekly](https://github.com/xiaoxuan6/weekly)|[https://weekly.xiaoxuan6.cloudns.be](https://weekly.xiaoxuan6.cloudns.be/)|【周刊】针对优秀项目、软件、教程资料、网站等。|
 |[faker](https://github.com/xiaoxuan6/faker)|[https://xiaoxuan6.github.io/faker](https://xiaoxuan6.github.io/faker)|个人信息假数据生成器（包括：姓名、出生日期、身份证、手机号、银行卡号）|
 |[free-vip-video](https://github.com/xiaoxuan6/free-vip-video)|[https://xiaoxuan6.github.io/free-vip-video](https://xiaoxuan6.github.io/free-vip-video)|🎥爱奇艺、优酷、土豆等会员资源解析|
-|[homepage](https://github.com/xiaoxuan6/homepage)|[https://xiaoxuan6.us.kg](https://xiaoxuan6.us.kg/)|主页、引导页|
+|[homepage](https://github.com/xiaoxuan6/homepage)|~[https://xiaoxuan6.us.kg](https://xiaoxuan6.us.kg/)~|主页、引导页|
 |[service-status](https://github.com/xiaoxuan6/service-status)||服务状态监控面板|
-|[chinese-holidays-api](https://github.com/xiaoxuan6/chinese-holidays-api)|[https://holidays.xiaoxuan6.us.kg](https://holidays.xiaoxuan6.us.kg)|提供中国休假或者工作日 api 接口查询|
+|[chinese-holidays-api](https://github.com/xiaoxuan6/chinese-holidays-api)|~[https://holidays.xiaoxuan6.us.kg](https://holidays.xiaoxuan6.us.kg)~|提供中国休假或者工作日 api 接口查询|
 |[telegraph-images](https://github.com/xiaoxuan6/telegraph-images)||telegraph 图床|
 |[deeplx](https://github.com/xiaoxuan6/deeplx)||用于无限制翻译的 Go 库 DeepL|
-|[dockerproxy](https://github.com/xiaoxuan6/dockerproxy)|[https://dockerproxy.xiaoxuan6.us.kg](https://dockerproxy.xiaoxuan6.us.kg)|Docker 镜像加速站集合|
+|[dockerproxy](https://github.com/xiaoxuan6/dockerproxy)|[https://dockerproxy.xiaoxuan6.me](https://dockerproxy.xiaoxuan6.me)|Docker 镜像加速站集合|
 |[sensitive-api](https://github.com/xiaoxuan6/sensitive-api)||敏感词过滤，查找、替换支持 Docker 一键部署|
 |[github-profile](https://github.com/xiaoxuan6/github-profile)|[https://github-profile.xiaoxuan6.me](https://github-profile.xiaoxuan6.me)|展示 github 主页 Repository 和 Pr 信息|
 |[youdao-translate](https://github.com/xiaoxuan6/youdao-translate)|[https://xiaoxuan6s-yd-translate.hf.space](https://xiaoxuan6s-yd-translate.hf.space)|逆向有道翻译，搭建自己的翻译网站|
