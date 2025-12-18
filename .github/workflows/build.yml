@@ -38,32 +38,33 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
 
-  build1:
-    runs-on: ubuntu-latest
-    steps:
-      - name: "Checkout"
-        uses: actions/checkout@v1
-      - name: "Setup go"
-        uses: actions/setup-go@v1
-        with:
-          go-version: 1.18
-      - name: "Run"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          go mod tidy
-          go run main.go
-          cat README.md
-      - name: "Commit push"
-        run: |
-          git diff
-          git config --local user.email "1527736751@qq.com"
-          git config --local user.name "xiaoxuan6"
-          git pull origin master
-          git add -A
-          git commit -m "Updated content" || exit 0
-      - name: "Push changes"
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+  # build1:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: "Checkout"
+  #       uses: actions/checkout@v1
+  #     - name: "Setup go"
+  #       uses: actions/setup-go@v1
+  #       with:
+  #         go-version: 1.18
+  #     - name: "Run"
+  #       env:
+  #         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  #       run: |
+  #         go mod tidy
+  #         go run main.go
+  #         cat README.md
+  #     - name: "Commit push"
+  #       run: |
+  #         git diff
+  #         git config --local user.email "1527736751@qq.com"
+  #         git config --local user.name "xiaoxuan6"
+  #         git pull origin master
+  #         git add -A
+  #         git commit -m "Updated content" || exit 0
+  #     - name: "Push changes"
+  #       uses: ad-m/github-push-action@master
+  #       with:
+  #         github_token: ${{ secrets.GITHUB_TOKEN }}
+
           force: true
